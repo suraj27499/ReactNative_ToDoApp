@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/ReactNative_ToDoApp/static/js/app.b5347731.chunk.js",
-    "app.js.map": "/ReactNative_ToDoApp/static/js/app.b5347731.chunk.js.map",
-    "runtime~app.js": "/ReactNative_ToDoApp/static/js/runtime~app.d195291b.js",
-    "runtime~app.js.map": "/ReactNative_ToDoApp/static/js/runtime~app.d195291b.js.map",
-    "static/js/2.da8fa90a.chunk.js": "/ReactNative_ToDoApp/static/js/2.da8fa90a.chunk.js",
-    "static/js/2.da8fa90a.chunk.js.map": "/ReactNative_ToDoApp/static/js/2.da8fa90a.chunk.js.map",
-    "favicon-16.png": "/ReactNative_ToDoApp/favicon-16.png",
-    "favicon-32.png": "/ReactNative_ToDoApp/favicon-32.png",
-    "favicon.ico": "/ReactNative_ToDoApp/favicon.ico",
-    "index.html": "/ReactNative_ToDoApp/index.html",
-    "manifest.json": "/ReactNative_ToDoApp/manifest.json",
-    "serve.json": "/ReactNative_ToDoApp/serve.json",
-    "static/js/2.da8fa90a.chunk.js.LICENSE.txt": "/ReactNative_ToDoApp/static/js/2.da8fa90a.chunk.js.LICENSE.txt"
+    "app.js": "/expo-gh-pages/static/js/app.b5347731.chunk.js",
+    "app.js.map": "/expo-gh-pages/static/js/app.b5347731.chunk.js.map",
+    "runtime~app.js": "/expo-gh-pages/static/js/runtime~app.57d3d678.js",
+    "runtime~app.js.map": "/expo-gh-pages/static/js/runtime~app.57d3d678.js.map",
+    "static/js/2.2ebb42be.chunk.js": "/expo-gh-pages/static/js/2.2ebb42be.chunk.js",
+    "static/js/2.2ebb42be.chunk.js.map": "/expo-gh-pages/static/js/2.2ebb42be.chunk.js.map",
+    "favicon-16.png": "/expo-gh-pages/favicon-16.png",
+    "favicon-32.png": "/expo-gh-pages/favicon-32.png",
+    "favicon.ico": "/expo-gh-pages/favicon.ico",
+    "index.html": "/expo-gh-pages/index.html",
+    "manifest.json": "/expo-gh-pages/manifest.json",
+    "serve.json": "/expo-gh-pages/serve.json",
+    "static/js/2.2ebb42be.chunk.js.LICENSE.txt": "/expo-gh-pages/static/js/2.2ebb42be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.d195291b.js",
-    "static/js/2.da8fa90a.chunk.js",
+    "static/js/runtime~app.57d3d678.js",
+    "static/js/2.2ebb42be.chunk.js",
     "static/js/app.b5347731.chunk.js"
   ]
 }
