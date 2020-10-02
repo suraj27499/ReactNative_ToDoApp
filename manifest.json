@@ -1,0 +1,35 @@
+{
+  "background_color": "#ffffff",
+  "description": "A basic todo app",
+  "display": "standalone",
+  "lang": "en",
+  "name": "ToDoApp",
+  "short_name": "ToDoApp",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.dubeysuraj.todoapp",
+      "id": "com.dubeysuraj.todoapp"
+    }
+  ],
+  "prefer_related_applications": true,
+  "icons": [
+    {
+      "src": "\\ReactNative_ToDoApp\\pwa\\chrome-icon\\chrome-icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "\\ReactNative_ToDoApp\\pwa\\chrome-icon\\chrome-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "\\ReactNative_ToDoApp\\pwa\\chrome-icon\\chrome-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
